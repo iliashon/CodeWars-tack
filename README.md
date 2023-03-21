@@ -25,7 +25,7 @@
 + 6 kyu https://www.codewars.com/kata/can-you-keep-a-secret
 ---
 ### Date and time
-+ 7 kyu https://www.codewars.com/kata/the-coupon-code
++ + 7 kyu https://www.codewars.com/kata/the-coupon-code
 + 7 kyu https://www.codewars.com/kata/unlucky-days
 + 6 kyu https://www.codewars.com/kata/angle-between-clock-hands
 ---
